@@ -1,0 +1,193 @@
+{
+    "data": {
+        "result": {
+            "__typename": "PlayerAchievements",
+            "achievements": [
+                {
+                    "id": 648,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/a69/4f6/a694f686d26ac506c60d993a3e8fd121.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/a69/4f6/a694f686d26ac506c60d993a3e8fd121.webp",
+                    "tag": "",
+                    "rare": "COMMON",
+                    "name": "First thousand",
+                    "description": "Reach $1K"
+                },
+                {
+                    "id": 649,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/56c/548/56c548c2b56275116acd3d073754052d.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/56c/548/56c548c2b56275116acd3d073754052d.webp",
+                    "tag": "",
+                    "rare": "RARE",
+                    "name": "Mom's businessman",
+                    "description": "Reach $10K"
+                },
+                {
+                    "id": 650,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/02a/702/02a702b71a243759c813080b9aad49e6.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/02a/702/02a702b71a243759c813080b9aad49e6.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Real bussiness",
+                    "description": "Earn $100K"
+                },
+                {
+                    "id": 651,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/057/224/057224f8435da6192580fdab02c1b078.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/057/224/057224f8435da6192580fdab02c1b078.webp",
+                    "tag": "",
+                    "rare": "MYTHIC",
+                    "name": "One lemon",
+                    "description": "Reach $1M"
+                },
+                {
+                    "id": 652,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/94e/085/94e0859af731d2ea8a597de600937665.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/94e/085/94e0859af731d2ea8a597de600937665.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Elytra",
+                    "description": "Get elytra"
+                },
+                {
+                    "id": 653,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/f68/781/f687811491cb2da2210a4bcb5963579f.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/f68/781/f687811491cb2da2210a4bcb5963579f.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Nether star",
+                    "description": "Get Nether star"
+                },
+                {
+                    "id": 654,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/745/2ce/7452ce21d8ede73094b95e2ca13a1ec8.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/745/2ce/7452ce21d8ede73094b95e2ca13a1ec8.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Emerald mini-sword",
+                    "description": "Get Emerald mini-sword"
+                },
+                {
+                    "id": 655,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/7d1/786/7d17866f19edd8fdc785278bc4ddd87f.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/7d1/786/7d17866f19edd8fdc785278bc4ddd87f.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Disc 13",
+                    "description": "Get Disc 13"
+                },
+                {
+                    "id": 656,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/ef3/ad3/ef3ad38cb9635b7a2144f7cd9270511e.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/ef3/ad3/ef3ad38cb9635b7a2144f7cd9270511e.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Golden apple",
+                    "description": "Get Golden apple"
+                },
+                {
+                    "id": 657,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/f17/018/f170181e494e51555ca205665d15ba94.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/f17/018/f170181e494e51555ca205665d15ba94.webp",
+                    "tag": "",
+                    "rare": "COMMON",
+                    "name": "It's just a beginning",
+                    "description": "Open 10 cases"
+                },
+                {
+                    "id": 658,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/d1d/0f1/d1d0f1c3eb55b3e62973f5c342a68a8d.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/d1d/0f1/d1d0f1c3eb55b3e62973f5c342a68a8d.webp",
+                    "tag": "",
+                    "rare": "RARE",
+                    "name": "Fifty times more than one",
+                    "description": "Open 50 cases"
+                },
+                {
+                    "id": 659,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/b80/c50/b80c50c54143761882d5d03c87157727.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/b80/c50/b80c50c54143761882d5d03c87157727.webp",
+                    "tag": "",
+                    "rare": "EPIC",
+                    "name": "99 + 1",
+                    "description": "Open 100 cases"
+                },
+                {
+                    "id": 660,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/284/7e3/2847e3b297f4f1f1e7eb8ff6e5b8365e.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/284/7e3/2847e3b297f4f1f1e7eb8ff6e5b8365e.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "It’s spinning and spinning",
+                    "description": "Open 200 cases"
+                },
+                {
+                    "id": 661,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/43e/d6a/43ed6a51a1ac06784bb31ff0fce7c37d.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/43e/d6a/43ed6a51a1ac06784bb31ff0fce7c37d.webp",
+                    "tag": "",
+                    "rare": "MYTHIC",
+                    "name": "Fat profit",
+                    "description": "Open 500 cases"
+                },
+                {
+                    "id": 751,
+                    "iconSmall": "https://cdn.eponesh.com/static/48x48/images/4ad/f9b/4adf9bc7ba284d9d2f29575aabbc9ce0.webp",
+                    "icon": "https://cdn.eponesh.com/static/256x256/images/4ad/f9b/4adf9bc7ba284d9d2f29575aabbc9ce0.webp",
+                    "tag": "",
+                    "rare": "LEGENDARY",
+                    "name": "Beacon",
+                    "description": "Get Beacon"
+                }
+            ],
+            "achievementsGroups": [
+                {
+                    "id": 80,
+                    "tag": "",
+                    "name": "Money",
+                    "description": "",
+                    "achievements": [
+                        648,
+                        649,
+                        650,
+                        651
+                    ]
+                },
+                {
+                    "id": 81,
+                    "tag": "",
+                    "name": "Items",
+                    "description": "",
+                    "achievements": [
+                        652,
+                        653,
+                        654,
+                        655,
+                        656,
+                        751
+                    ]
+                },
+                {
+                    "id": 82,
+                    "tag": "",
+                    "name": "Cases",
+                    "description": "",
+                    "achievements": [
+                        657,
+                        658,
+                        659,
+                        660,
+                        661
+                    ]
+                },
+                {
+                    "id": 0,
+                    "tag": "others",
+                    "name": "Other",
+                    "description": "",
+                    "achievements": []
+                }
+            ],
+            "playerAchievements": []
+        }
+    }
+}
